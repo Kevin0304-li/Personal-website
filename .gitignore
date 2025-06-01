@@ -1,6 +1,3 @@
-# Ignore index.html
-index.html
-
 # Ignore IDE/Editor files
 .vscode/
 .idea/
